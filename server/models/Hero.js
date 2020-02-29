@@ -19,7 +19,7 @@ const schema = new mongoose.Schema({
     attack: { type: Number },
     survive: { type: Number }
   },
-  skill: [{ //技能
+  skills: [{ //技能
     icon: { type: String },
     name: { type: String },
     description: { type: String },
