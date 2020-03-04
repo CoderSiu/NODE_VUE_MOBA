@@ -1,0 +1,58 @@
+{
+  "id": "1670422",
+  "name": "moba",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6400551",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "5057394",
+      "name": "crown",
+      "font_class": "crown",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "11726706",
+      "name": "话题箭头",
+      "font_class": "label_arrow",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11746369",
+      "name": "返回箭头",
+      "font_class": "back",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11874505",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "12106858",
+      "name": "下滑箭头",
+      "font_class": "double_arrow_down",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "12934668",
+      "name": "news",
+      "font_class": "tubiaozhizuomoban-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
